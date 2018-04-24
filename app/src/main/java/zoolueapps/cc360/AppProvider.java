@@ -12,7 +12,7 @@ import android.support.annotation.Nullable;
 import android.util.Log;
 
 /**
- * Created by curti on 9/21/2017.
+ * Created by curti on 9/21/2017. Test for github. Test II
  * Provider for the CC360 app. This is the only class that knows about {@link CC360AppDatabase}
  */
 
